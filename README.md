@@ -71,4 +71,4 @@
 [![Yuri Vergara's github stats](https://github-readme-stats.vercel.app/api?username=yuurivergara&show_icons=true&theme=tokyonight)](https://github.com/yuurivergara/github-readme-stats)
 <img align="right" src="./assets/thats.gif" width="38%"/>
   
- <iframe src="https://giphy.com/embed/toGG7pHlTGIIaTZu1o" width="480" height="230" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/OregonStateEcampus-toGG7pHlTGIIaTZu1o">via GIPHY</a></p>
+![giphy](https://user-images.githubusercontent.com/103228396/170877321-72a64008-5e55-455f-9021-f412c595ac27.gif)
