@@ -4,7 +4,7 @@
   <a href="mailto:yuridemlvergara@gmail.com">
     <img align="center" alt="Yuri Mail" height="30px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/yuurivergara">
+  <a href="https://www.linkedin.com/in/yuri-vergara-3752a2237/">
     <img align="center" alt="Yuri Linkdein" height="30px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/yuurivergara/">
