@@ -22,7 +22,7 @@
 <div>
   <img align="right" src="./assets/giphy.gif" width="30%"/>
 
-  - 📚 <samp> I currently work as a front end developer in a scientific initiation project. The project consists of developing a social network for the health area, with the main objective being a repository of medical exams.;
+  - 📚 <samp> I currently work as a front end developer in a scientific initiation project. The project consists of developing a social network for the health area, with the main objective being a repository of medical exams;
   - 🎓 <samp> I'm graduated in Electronics Technician at the Federal Institute of Rio Grande do Sul;
   - 💻 <samp> I'm a sophomore year student of Computer engineering at the Federal University of Rio Grande;
   - 🎮 <samp> In my spare time, I like to play e-games, basketball and football;
