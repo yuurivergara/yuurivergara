@@ -26,6 +26,9 @@
   - 🎓 <samp> I'm graduated in Electronics Technician at the Federal Institute of Rio Grande do Sul;
   - 💻 <samp> I'm a sophomore year student of Computer engineering at the Federal University of Rio Grande;
   - 🎮 <samp> In my spare time, I like to play e-games, basketball and football;
+  
+  ### Last project:
+  <samp> https://github.com/yuurivergara/caputeeno
 </div>
 
 <br/>
